@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.6f8925ab.css",
-    "main.js": "/static/js/main.2e13f96e.js",
-    "static/js/453.b86cb5f3.chunk.js": "/static/js/453.b86cb5f3.chunk.js",
-    "static/media/Bisar.png": "/static/media/Bisar.b6a37c7c98cb552c95af.png",
-    "static/media/Soher.png": "/static/media/Soher.b6a37c7c98cb552c95af.png",
-    "static/media/Machoz.png": "/static/media/Machoz.46b2c4140c0ac5b54465.png",
-    "static/media/MatehNetzivut.png": "/static/media/MatehNetzivut.50de13a9906b0fc4dc42.png",
-    "index.html": "/index.html",
-    "main.6f8925ab.css.map": "/static/css/main.6f8925ab.css.map",
-    "main.2e13f96e.js.map": "/static/js/main.2e13f96e.js.map",
-    "453.b86cb5f3.chunk.js.map": "/static/js/453.b86cb5f3.chunk.js.map"
+    "main.css": "/night-kingdom-dashboard/static/css/main.cd8b51ee.css",
+    "main.js": "/night-kingdom-dashboard/static/js/main.2c014f98.js",
+    "static/js/453.b86cb5f3.chunk.js": "/night-kingdom-dashboard/static/js/453.b86cb5f3.chunk.js",
+    "static/media/Bisar.png": "/night-kingdom-dashboard/static/media/Bisar.b6a37c7c98cb552c95af.png",
+    "static/media/Soher.png": "/night-kingdom-dashboard/static/media/Soher.b6a37c7c98cb552c95af.png",
+    "static/media/Machoz.png": "/night-kingdom-dashboard/static/media/Machoz.46b2c4140c0ac5b54465.png",
+    "static/media/MatehNetzivut.png": "/night-kingdom-dashboard/static/media/MatehNetzivut.50de13a9906b0fc4dc42.png",
+    "index.html": "/night-kingdom-dashboard/index.html",
+    "main.cd8b51ee.css.map": "/night-kingdom-dashboard/static/css/main.cd8b51ee.css.map",
+    "main.2c014f98.js.map": "/night-kingdom-dashboard/static/js/main.2c014f98.js.map",
+    "453.b86cb5f3.chunk.js.map": "/night-kingdom-dashboard/static/js/453.b86cb5f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6f8925ab.css",
-    "static/js/main.2e13f96e.js"
+    "static/css/main.cd8b51ee.css",
+    "static/js/main.2c014f98.js"
   ]
 }
